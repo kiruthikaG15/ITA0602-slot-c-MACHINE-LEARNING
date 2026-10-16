@@ -119,7 +119,5 @@ sample = {
 }
 
 result = predict(tree, sample)
-
 print("\nNew Sample:", sample)
 print("Predicted Result:", result)
-
